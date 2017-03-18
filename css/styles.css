@@ -1,6 +1,9 @@
 body {
   min-width: 400px;
 }
+.fa {
+  padding-bottom: 5px;
+}
 .ava {
   height: 220px;
   width: 200px;
@@ -25,6 +28,7 @@ body {
 
 .social {
   padding: 5px;
+  font-size: 14pt;
 }
 
 .media-align {
@@ -36,6 +40,7 @@ body {
 }
 
 .block-title {
+  font-size: 24pt;
   padding-top: 20px;
   margin-bottom: 10px;
   border-bottom: 4px solid #cf8a05
